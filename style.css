@@ -1,7 +1,13 @@
-botton{
+.one{
     height: 50px;
     width: 70px;
     color: aqua;
     border: black;
+}
+.two{
+    height: 50px;
+    width: 70px;
+    color: burlywood;
+    border:black;
 }
     
